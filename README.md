@@ -4,7 +4,9 @@
 
 ## About
 
-I build full stack web applications for education and travel booking. I also build computer vision tools for image analysis.
+I'm a Senior Full Stack, DevOps, and AI Engineer with four years of professional software engineering experience. I build scalable web applications and cloud-native infrastructure, covering frontend and backend development, system architecture, CI/CD automation, and production deployment.
+
+I also work with machine learning, deep learning, computer vision, and LLM integration to build AI features. My projects include education dashboards, travel booking workflows, and tools for analyzing images.
 
 ## Tech Stack
 
