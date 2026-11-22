@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="192" viewBox="0 0 1000 192"><rect width="1000" height="192" rx="18" fill="#111927"/><g font-family="system-ui, -apple-system, Segoe UI, sans-serif"><path d="M744 150h184M789 113h139M834 76h94M879 39h49" stroke="#29394d" stroke-width="2" stroke-linecap="round"/><circle cx="879" cy="39" r="5" fill="#7de1d1"/><text x="54" y="52" fill="#7de1d1" font-size="16" font-weight="600" letter-spacing="2">WAHEDDEVS</text><text x="50" y="111" fill="#f5f8fc" font-size="56" font-weight="700" letter-spacing="-2">ARNOLD</text><text x="54" y="151" fill="#c0cddd" font-size="24" font-weight="500">Full Stack Software Engineer</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="192" viewBox="0 0 1000 192"><rect width="1000" height="192" rx="18" fill="#111927"/><g font-family="system-ui, -apple-system, Segoe UI, sans-serif"><path d="M744 150h184M789 113h139M834 76h94M879 39h49" stroke="#29394d" stroke-width="2" stroke-linecap="round"/><style>
+@keyframes banner-signal {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(49px); }
+}
+.signal-dot { animation: banner-signal 5s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .signal-dot { animation: none; }
+}
+</style><circle class="signal-dot" cx="879" cy="39" r="5" fill="#7de1d1"/><text x="54" y="52" fill="#7de1d1" font-size="16" font-weight="600" letter-spacing="2">WAHEDDEVS</text><text x="50" y="111" fill="#f5f8fc" font-size="56" font-weight="700" letter-spacing="-2">ARNOLD</text><text x="54" y="151" fill="#c0cddd" font-size="24" font-weight="500">Full Stack Software Engineer</text></g></svg>
