@@ -1,10 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="192" viewBox="0 0 1000 192"><rect width="1000" height="192" rx="18" fill="#111927"/><g font-family="system-ui, -apple-system, Segoe UI, sans-serif"><path d="M744 150h184M789 113h139M834 76h94M879 39h49" stroke="#29394d" stroke-width="2" stroke-linecap="round"/><style>
-@keyframes banner-signal {
-  0%, 100% { transform: translateX(0); }
-  50% { transform: translateX(49px); }
-}
-.signal-dot { animation: banner-signal 5s ease-in-out infinite; }
-@media (prefers-reduced-motion: reduce) {
-  .signal-dot { animation: none; }
-}
-</style><circle class="signal-dot" cx="879" cy="39" r="5" fill="#7de1d1"/><text x="54" y="52" fill="#7de1d1" font-size="16" font-weight="600" letter-spacing="2">WAHEDDEVS</text><text x="50" y="111" fill="#f5f8fc" font-size="56" font-weight="700" letter-spacing="-2">ARNOLD</text><text x="54" y="151" fill="#c0cddd" font-size="24" font-weight="500">Full Stack Software Engineer</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="144" viewBox="0 0 1000 144">
+  <title>ARNOLD - Full Stack Software Engineer</title>
+  <style>
+    @keyframes cursor-blink { 50% { opacity: .25; } }
+    .cursor { animation: cursor-blink 2.6s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="998" height="142" rx="13" fill="#161b22" stroke="#30363d"/>
+  <g font-family="system-ui, Segoe UI, sans-serif">
+    <text x="38" y="36" fill="#7de1d1" font-size="14" font-weight="600">@waheddevs</text>
+    <text x="36" y="82" fill="#f0f6fc" font-size="44" font-weight="700" letter-spacing="-1">ARNOLD</text>
+    <text x="38" y="111" fill="#b8c3d0" font-size="21">Full Stack Software Engineer</text>
+  </g>
+  <rect x="653" y="23" width="310" height="98" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="17" fill="#c9d1d9">
+    <text x="673" y="49"><tspan fill="#7de1d1">/</tspan> apps/web</text>
+    <text x="673" y="76"><tspan fill="#7de1d1">/</tspan> services/api</text>
+    <text x="673" y="103"><tspan fill="#7de1d1">/</tspan> vision/detection</text>
+  </g>
+  <rect class="cursor" x="867" y="89" width="3" height="17" rx="1" fill="#7de1d1"/>
+</svg>
