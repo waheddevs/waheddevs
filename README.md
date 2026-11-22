@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" alt="ARNOLD, Senior Full-Stack, DevOps &amp; AI Engineer" width="100%">
 
-**Chungju, South Korea** &nbsp;|&nbsp; [Repositories](https://github.com/waheddevs?tab=repositories)
+**Seoul, South Korea** &nbsp;|&nbsp; [Repositories](https://github.com/waheddevs?tab=repositories)
 
 ## About
 
