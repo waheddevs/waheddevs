@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="144" viewBox="0 0 1000 144">
-  <title>ARNOLD - Full Stack Software Engineer</title>
+  <title>ARNOLD - Senior Full-Stack, DevOps &amp; AI Engineer</title>
   <style>
     @keyframes cursor-blink { 50% { opacity: .25; } }
     .cursor { animation: cursor-blink 2.6s ease-in-out infinite; }
@@ -9,7 +9,7 @@
   <g font-family="system-ui, Segoe UI, sans-serif">
     <text x="38" y="36" fill="#7de1d1" font-size="14" font-weight="600">@waheddevs</text>
     <text x="36" y="82" fill="#f0f6fc" font-size="44" font-weight="700" letter-spacing="-1">ARNOLD</text>
-    <text x="38" y="111" fill="#b8c3d0" font-size="21">Full Stack Software Engineer</text>
+    <text x="38" y="111" fill="#b8c3d0" font-size="21">Senior Full-Stack, DevOps &amp; AI Engineer</text>
   </g>
   <rect x="653" y="23" width="310" height="98" rx="8" fill="#0d1117" stroke="#30363d"/>
   <g font-family="ui-monospace, Consolas, monospace" font-size="17" fill="#c9d1d9">
