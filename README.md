@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Vakhidjon, Full Stack Software Engineer" width="100%">
+<img src="assets/banner.svg" alt="ARNOLD, Full Stack Software Engineer" width="100%">
 
 **Chungju, South Korea** &nbsp;|&nbsp; [Repositories](https://github.com/waheddevs?tab=repositories)
 
